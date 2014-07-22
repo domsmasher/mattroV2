@@ -1,0 +1,10 @@
+{
+  "name": "mattrov2",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0",
+    "handlebars": "~1.1.0"
+  },
+  "devDependencies": {}
+}
