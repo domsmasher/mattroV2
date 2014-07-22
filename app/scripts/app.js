@@ -1,4 +1,5 @@
 //http://api.metro.co.uk/commercial-feed/?path=home&number=10&page=1
+//Commento
 'use strict';
 var app = (function () {
 	var initModule = function ($container) {
